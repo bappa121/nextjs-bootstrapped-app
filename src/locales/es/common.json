@@ -1,0 +1,18 @@
+{
+  "welcome": "Bienvenido",
+  "register": "Registrarse",
+  "login": "Iniciar sesión",
+  "uploadMedicalData": "Subir datos médicos",
+  "analyze": "Analizar",
+  "automatedAlerts": "Alertas automáticas",
+  "analysisResults": "Resultados del análisis",
+  "recommendations": "Recomendaciones",
+  "role": "Rol",
+  "patient": "Paciente",
+  "doctor": "Doctor",
+  "email": "Correo electrónico",
+  "password": "Contraseña",
+  "name": "Nombre",
+  "submit": "Enviar",
+  "logout": "Cerrar sesión"
+}
