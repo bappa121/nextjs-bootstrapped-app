@@ -1,0 +1,18 @@
+{
+  "welcome": "Welcome",
+  "register": "Register",
+  "login": "Login",
+  "uploadMedicalData": "Upload Medical Data",
+  "analyze": "Analyze",
+  "automatedAlerts": "Automated Alerts",
+  "analysisResults": "Analysis Results",
+  "recommendations": "Recommendations",
+  "role": "Role",
+  "patient": "Patient",
+  "doctor": "Doctor",
+  "email": "Email",
+  "password": "Password",
+  "name": "Name",
+  "submit": "Submit",
+  "logout": "Logout"
+}
